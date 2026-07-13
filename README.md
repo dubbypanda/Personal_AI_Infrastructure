@@ -42,7 +42,7 @@
 ---
 
 <div align="center">
-  <video src="https://github.com/danielmiessler/LifeOS/raw/main/images/lifeos-intro.mp4" poster="https://github.com/danielmiessler/LifeOS/raw/main/images/lifeos-intro-poster.jpg" controls muted playsinline width="820"></video>
+  <a href="https://github.com/danielmiessler/LifeOS/raw/main/images/lifeos-intro.mp4"><img src="images/lifeos-intro-poster.jpg" alt="Watch the LifeOS intro — click to play" width="820"></a>
 </div>
 
 **LifeOS** is a General Purpose AI Harness for doing anything you want to do in life and work with AI. It captures who you are, what you care about, and where you're trying to go, then uses AI that knows you to help you get there. 
