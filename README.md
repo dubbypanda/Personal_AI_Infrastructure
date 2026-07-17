@@ -147,12 +147,11 @@ Recovery is straightforward:
 
 ### Star History
 
+<!-- Self-hosted chart: star-history.com's embed API 500s on repos this size
+     (10s timeout re-fetching ~17K stargazers per render). Regenerate at release:
+     bun LIFEOS/TOOLS/GenerateStarHistory.ts danielmiessler/LifeOS images/star-history.svg -->
 <a href="https://star-history.com/#danielmiessler/LifeOS&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=danielmiessler/LifeOS&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=danielmiessler/LifeOS&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=danielmiessler/LifeOS&type=Date" />
- </picture>
+ <img alt="Star History Chart" src="./images/star-history.svg" width="800" />
 </a>
 
 ---
